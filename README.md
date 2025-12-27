@@ -34,6 +34,7 @@ Documentar y explicar configuraciones de seguridad aplicables a sistemas Linux, 
 - [Scripts](scripts/)
 - [Diagrama de Arquitectura](diagrams/architecture.png)
 - [Services Hardening](services-hardening/README.md)
+- [Network Hardening](network-hardening/README.md)
 
 
 ## Diagrama de Arquitectura
