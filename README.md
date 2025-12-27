@@ -5,6 +5,7 @@ Repositorio enfocado en documentar prácticas de hardening en sistemas Linux, pr
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![Status](https://img.shields.io/badge/status-Active-blue)
 
+
 Repositorio con documentación y scripts educativos para hardening de sistemas Linux.
 
 ## Objetivo
@@ -23,6 +24,7 @@ Documentar y explicar configuraciones de seguridad aplicables a sistemas Linux, 
 - Configuraciones mínimas necesarias
 - Documentación clara y técnica
 
+
 ## Tabla de contenido
 - [Baseline](baseline.md)
 - [SSH Hardening](ssh-hardening.md)
@@ -31,6 +33,11 @@ Documentar y explicar configuraciones de seguridad aplicables a sistemas Linux, 
 - [Logging y Monitoreo](logging-monitoreo.md)
 - [Scripts](scripts/)
 - [Diagrama de Arquitectura](diagrams/architecture.png)
+
+## Diagrama de Arquitectura
+
+![Linux Hardening Architecture](diagrams/architecture.png)
+
 
 ## Estado del proyecto
 
