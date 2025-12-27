@@ -33,6 +33,8 @@ Documentar y explicar configuraciones de seguridad aplicables a sistemas Linux, 
 - [Logging y Monitoreo](logging-monitoreo.md)
 - [Scripts](scripts/)
 - [Diagrama de Arquitectura](diagrams/architecture.png)
+- [Services Hardening](services-hardening/README.md)
+
 
 ## Diagrama de Arquitectura
 

@@ -15,6 +15,11 @@ Su objetivo es minimizar la superficie de ataque y garantizar configuración seg
 - MySQL/PostgreSQL
 - OpenSSH
 
+## Diagrama de Arquitectura de Servicios
+
+![Services Hardening Architecture](diagrams/architecture.png)
+
+
 ## Estructura del proyecto
 
 - `apache-hardening.md` → Configuración segura de Apache.  
